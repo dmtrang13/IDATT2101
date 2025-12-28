@@ -1,0 +1,25 @@
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# C++ build files
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+
+# Build folders
+build/
+cmake-build-*/
+
+# Logs
+*.log
